@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+#nl
+{
+  text-decoration: none;
+  margin-right:15px;
+  background-color: lightblue;
+  border-radius: 5px;
+}
+nav
+{
+  background-color: darkblue;
+  padding:3px;
+}
+#nl:hover
+{
+  background-color: black;
+  color:white;
+}
